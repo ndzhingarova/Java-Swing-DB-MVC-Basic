@@ -1,0 +1,14 @@
+Sat May 12 22:54:33 EDT 2018 : Apache Derby Network Server - 10.11.1.2 - (1629631) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat May 12 22:54:33 EDT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0163-576b-bee5-ffffb19fa6e4 
+on database directory E:\CRosemont_Nikoleta\etape3\3E_EG_AbderrazakSahraoui\evalfinal\AZ3EvaluationFinale\AZ3EvaluationFinale\magasin2 with class loader sun.misc.Launcher$AppClassLoader@266474c2 
+Loaded from file:/C:/Program%20Files/Java/jdk1.8.0_161/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Program Files\Java\jdk1.8.0_161\db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=E:\CRosemont_Nikoleta\etape3\3E_EG_AbderrazakSahraoui\evalfinal\AZ3EvaluationFinale\AZ3EvaluationFinale
+Database Class Loader started - derby.database.classpath=''
